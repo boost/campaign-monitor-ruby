@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'campaign_monitor'
+  s.name        = 'boost-campaign_monitor'
   s.version     = "1.3.3"
   s.summary     = 'Provides access to the Campaign Monitor API.'
   s.description = <<-EOF
